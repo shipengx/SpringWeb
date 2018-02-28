@@ -7,11 +7,10 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class HelloController {
 
-	@RequestMapping("/welcome")
+	@RequestMapping("/home")
 	public ModelAndView helloWorld() {
 
-		String message = "<br><div style='text-align:center;'>"
-				+ "<h3>********** Hello World, Spring MVC Tutorial</h3>This message is coming from CrunchifyHelloWorld.java **********</div><br><br>";
-		return new ModelAndView("welcome", "message", message);
+		String message = "<h1>Shipeng home page</h1>";
+		return new ModelAndView("home", "message", message);
 	}
 }
