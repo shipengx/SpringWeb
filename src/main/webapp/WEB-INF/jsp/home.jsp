@@ -34,7 +34,7 @@ body {
 	margin-left: 15%; /* Same as the width of the sidenav */
 	font-size: 25px; /* Increased text to enable scrolling */
 	padding: 0px 10px;
-	margin-right: 15%;
+	margin-right: 20%;
 }
 
 @media screen and (max-height: 450px) {
@@ -48,7 +48,7 @@ body {
 
 .rightBar {
 	height: 100%;
-	width: 15%;
+	width: 20%;
 	position: fixed;
 	z-index: 1;
 	top: 0;
@@ -57,7 +57,6 @@ body {
 	overflow-x: hidden;
 	padding-top: 20px;
 }
-
 </style>
 </head>
 <body>
@@ -82,7 +81,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -95,7 +94,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -108,7 +107,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -121,7 +120,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -134,7 +133,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -147,7 +146,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -160,7 +159,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -173,7 +172,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -186,7 +185,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -199,7 +198,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -212,7 +211,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -225,7 +224,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -238,7 +237,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -251,7 +250,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -264,7 +263,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -277,7 +276,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -290,7 +289,7 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
-			<p>A paragraph is a series of sentences that are organized and
+		<p>A paragraph is a series of sentences that are organized and
 			coherent, and are all related to a single topic. Almost every piece
 			of writing you do that is longer than a few sentences should be
 			organized into paragraphs. This is because paragraphs show a reader
@@ -303,8 +302,14 @@ body {
 			take its place in prominence atop the night sky. People slow to a
 			crawl, entranced, fully forgetting the deeds that still must be done.
 			There is a coolness, a calmness, when the sun does set.</p>
+		<p>
+		<pre><code>public static void main(String[] args) {
+                    this.element = element;
+                    this.canClose = canClose;
+                    this.closeHandler = function () { if (closeHandler) closeHandler() };
+            }</code></pre>
+		</p>
 	</div>
-    <div class="rightBar">
-    </div>
+	<div class="rightBar"></div>
 </body>
 </html>
